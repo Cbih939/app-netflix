@@ -58,6 +58,13 @@ header nav a:hover{
     font-size: 40px;
 }
 
+.titulo-filmes{
+    margin-top:40px;
+    font-family:'Trebuchet MS', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
 .filme-principal .descricao{
     margin-top: 10px;
     margin-bottom: 30px;
